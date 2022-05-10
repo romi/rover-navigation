@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="654.28827mm"
+   height="294.94748mm"
+   viewBox="0 0 654.28828 294.94748"
+   version="1.1"
+   id="svg2187"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="positioning-landmarks.svg">
+  <defs
+     id="defs2181">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6738"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6736"
+         style="fill:#0000fe;fill-opacity:1;fill-rule:evenodd;stroke:#0000fe;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5362"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000fe;fill-opacity:1;fill-rule:evenodd;stroke:#0000fe;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5360"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5196"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5194"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5024"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5022"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4870"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4868"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3841"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000e8;fill-opacity:1;fill-rule:evenodd;stroke:#0000e8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3839"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3699"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3697"
+         style="fill:#0000e8;fill-opacity:1;fill-rule:evenodd;stroke:#0000e8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3563"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3561"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1757"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1755"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1590"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1588"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1470"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1468"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1358"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1356"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1258"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1256"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1697"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7240"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7238"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6342"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6340"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3682"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3680"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3232"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:collect="always">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3230"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2870"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2879"
+         style="fill:#0000e8;fill-opacity:1;fill-rule:evenodd;stroke:#0000e8;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7240-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7238-5" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="368.34845"
+     inkscape:cy="442.16344"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:lockguides="true"
+     inkscape:snap-global="true"
+     inkscape:snap-center="false"
+     inkscape:object-paths="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata2184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(30.575211,18.765889)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:5.0270834px;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:none;fill-opacity:0.50476194;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-167.82143"
+       y="232.64955"
+       id="text5086"><tspan
+         sodipodi:role="line"
+         id="tspan5084"
+         x="-167.82143"
+         y="239.14243"
+         style="stroke-width:0.1" /></text>
+    <circle
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1149"
+       cx="5.1173053"
+       cy="22.08934"
+       r="1.8290588" />
+    <circle
+       r="1.8290588"
+       cy="99.913345"
+       cx="5.1173053"
+       id="circle1151"
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1155"
+       d="M 62.85901,74.258404 5.1172603,22.089334"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.85901,74.258404 5.1172603,99.913324"
+       id="path1157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text1165"
+       y="107.93074"
+       x="-11.041829"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="107.93074"
+         x="-11.041829"
+         id="tspan1163"
+         sodipodi:role="line">b(0,0)</tspan></text>
+    <text
+       id="text1169"
+       y="18.218094"
+       x="-8.6416979"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="18.218094"
+         x="-8.6416979"
+         id="tspan1167"
+         sodipodi:role="line">a(0,d)</tspan></text>
+    <path
+       sodipodi:open="true"
+       d="M 51.8512,79.059666 A 12,12 0 0 1 53.957898,66.194831"
+       sodipodi:end="3.8781216"
+       sodipodi:start="2.729695"
+       sodipodi:ry="12"
+       sodipodi:rx="12"
+       sodipodi:cy="74.255478"
+       sodipodi:cx="62.847553"
+       sodipodi:type="arc"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1590)"
+       id="path1173" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="50.986015"
+       y="75.620987"
+       id="text1179"><tspan
+         sodipodi:role="line"
+         id="tspan1177"
+         x="50.986015"
+         y="75.620987"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">θ<tspan
+   style="font-size:4.12749958px;baseline-shift:sub;stroke-width:0.1"
+   id="tspan1175" /></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 5.1173103,99.913384 -5e-5,-77.82405"
+       id="path1181"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1193"
+       y="72.653214"
+       x="-2.7155504"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="72.653214"
+         x="-2.7155504"
+         id="tspan1191"
+         sodipodi:role="line">d</tspan></text>
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.22437283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1586"
+       cx="22.355709"
+       cy="61.075394"
+       rx="42.818733"
+       ry="42.818737" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.0385803,61.075394 H 22.16467"
+       id="path1730"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path1736"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.9836303,22.172854 22.36768,61.112084 4.9836303,99.996844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path1753"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1757)"
+       sodipodi:type="arc"
+       sodipodi:cx="22.367687"
+       sodipodi:cy="61.112076"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       sodipodi:start="1.9934278"
+       sodipodi:end="4.2904812"
+       d="M 19.906716,66.584152 A 6,6 0 0 1 16.367688,61.109905 6,6 0 0 1 19.910677,55.63822"
+       sodipodi:open="true" />
+    <text
+       id="text3179"
+       y="71.252151"
+       x="10.11474"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="71.252151"
+         x="10.11474"
+         id="tspan3177"
+         sodipodi:role="line">2θ<tspan
+   id="tspan3175"
+   style="font-size:4.12749958px;baseline-shift:sub;stroke-width:0.1" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="22.04977"
+       y="138.37959"
+       id="text3213"><tspan
+         sodipodi:role="line"
+         id="tspan3211"
+         x="22.04977"
+         y="138.37959"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">⇒ R=d/2sinθ</tspan></text>
+    <text
+       id="text3217"
+       y="83.076736"
+       x="14.924251"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="83.076736"
+         x="14.924251"
+         id="tspan3215"
+         sodipodi:role="line">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="23.470165"
+       y="63.84404"
+       id="text3221"><tspan
+         sodipodi:role="line"
+         id="tspan3219"
+         x="23.470165"
+         y="63.84404"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">c</tspan></text>
+    <text
+       id="text3229"
+       y="127.60719"
+       x="-11.401128"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="127.60719"
+         x="-11.401128"
+         id="tspan3227"
+         sodipodi:role="line">Law of sines : d/sinθ = 2R</tspan></text>
+    <text
+       id="text3233"
+       y="153.8766"
+       x="-14.802907"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="153.8766"
+         x="-14.802907"
+         id="tspan3231"
+         sodipodi:role="line">y<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3239">c</tspan>=d/2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-14.802907"
+       y="164.45998"
+       id="text3237"><tspan
+         sodipodi:role="line"
+         id="tspan3235"
+         x="-14.802907"
+         y="164.45998"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">x<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3241">c</tspan>=R cosθ = d cosθ/2 sinθ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="48.150093"
+       y="25.430344"
+       id="text3245"><tspan
+         sodipodi:role="line"
+         id="tspan3243"
+         x="48.150093"
+         y="25.430344"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">C</tspan></text>
+    <text
+       id="text3249"
+       y="175.11391"
+       x="-14.973668"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="175.11391"
+         x="-14.973668"
+         id="tspan3247"
+         sodipodi:role="line">C: (x-x<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3251">c</tspan>)²+(y-y<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3253">c</tspan>)²=R²</tspan></text>
+    <circle
+       r="1.8290588"
+       cy="22.08934"
+       cx="121.53402"
+       id="circle3255"
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3257"
+       cx="121.53402"
+       cy="99.913345"
+       r="1.8290588" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 179.27569,74.258404 121.53397,22.089334"
+       id="path3259"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3261"
+       d="m 179.27569,74.258404 -57.74172,25.65492"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="117.0273"
+       y="107.66347"
+       id="text3265"><tspan
+         sodipodi:role="line"
+         id="tspan3263"
+         x="117.0273"
+         y="107.66347"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="118.35837"
+       y="18.218094"
+       id="text3269"><tspan
+         sodipodi:role="line"
+         id="tspan3267"
+         x="118.35837"
+         y="18.218094"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">a</tspan></text>
+    <path
+       id="path3271"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1590)"
+       sodipodi:type="arc"
+       sodipodi:cx="179.26419"
+       sodipodi:cy="74.255478"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       sodipodi:start="2.729695"
+       sodipodi:end="3.8781216"
+       d="m 168.26784,79.059666 a 12,12 0 0 1 2.1067,-12.864835"
+       sodipodi:open="true" />
+    <text
+       id="text3277"
+       y="75.620987"
+       x="167.40265"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="75.620987"
+         x="167.40265"
+         id="tspan3275"
+         sodipodi:role="line">θ<tspan
+   id="tspan3273"
+   style="font-size:4.12749958px;baseline-shift:sub;stroke-width:0.1" /></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3279"
+       d="m 121.53402,99.913384 -5e-5,-77.82405"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="113.70116"
+       y="72.653214"
+       id="text3283"><tspan
+         sodipodi:role="line"
+         id="tspan3281"
+         x="113.70116"
+         y="72.653214"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">d</tspan></text>
+    <ellipse
+       ry="42.818737"
+       rx="42.818733"
+       cy="61.075394"
+       cx="138.77238"
+       id="ellipse3285"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.22437283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3287"
+       d="m 121.45529,61.075394 h 17.12608"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       d="m 121.40034,22.172854 17.38404,38.93923 -17.38404,38.88476"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3289" />
+    <path
+       sodipodi:open="true"
+       d="m 136.32339,66.584152 a 6,6 0 0 1 -3.53903,-5.474247 6,6 0 0 1 3.54299,-5.471685"
+       sodipodi:end="4.2904812"
+       sodipodi:start="1.9934278"
+       sodipodi:ry="6"
+       sodipodi:rx="6"
+       sodipodi:cy="61.112076"
+       sodipodi:cx="138.78436"
+       sodipodi:type="arc"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1757)"
+       id="path3291" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="125.46233"
+       y="59.225021"
+       id="text3297"><tspan
+         sodipodi:role="line"
+         id="tspan3295"
+         x="125.46233"
+         y="59.225021"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">2θ<tspan
+   style="font-size:4.12749958px;baseline-shift:sub;stroke-width:0.1"
+   id="tspan3293" /></tspan></text>
+    <text
+       id="text3301"
+       y="138.37959"
+       x="138.46643"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="138.37959"
+         x="138.46643"
+         id="tspan3299"
+         sodipodi:role="line">⇒ R=d/2sinθ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="131.34093"
+       y="83.076736"
+       id="text3305"><tspan
+         sodipodi:role="line"
+         id="tspan3303"
+         x="131.34093"
+         y="83.076736"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">R</tspan></text>
+    <text
+       id="text3309"
+       y="63.84404"
+       x="139.88683"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="63.84404"
+         x="139.88683"
+         id="tspan3307"
+         sodipodi:role="line">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="105.01559"
+       y="127.60719"
+       id="text3313"><tspan
+         sodipodi:role="line"
+         id="tspan3311"
+         x="105.01559"
+         y="127.60719"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">Law of sines : d/sinθ = 2R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="101.61382"
+       y="160.22664"
+       id="text3319"><tspan
+         sodipodi:role="line"
+         id="tspan3317"
+         x="101.61382"
+         y="160.22664"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">c=t + v = a + ab/2 + ab<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4109">⟂</tspan>/2tanθ</tspan></text>
+    <text
+       id="text3329"
+       y="25.430344"
+       x="164.56673"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="25.430344"
+         x="164.56673"
+         id="tspan3327"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       id="text3341"
+       y="70.682312"
+       x="122.02729"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#0605f9;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1;fill:#0605f9;fill-opacity:1;"
+         y="70.682312"
+         x="122.02729"
+         id="tspan3339"
+         sodipodi:role="line">t</tspan></text>
+    <text
+       id="text3347"
+       y="170.81001"
+       x="101.61382"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="170.81001"
+         x="101.61382"
+         id="tspan3345"
+         sodipodi:role="line"><tspan
+   style="font-weight:normal"
+   id="tspan3349">t</tspan>=(a+b)/2 = a+ab/2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.6524,166.01192 h 1.87625"
+       id="path3351"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3353"
+       d="m 113.7649,166.54109 h 1.87626"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3355"
+       d="m 121.70241,165.48275 h 1.87626"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3357"
+       d="m 102.6524,155.95781 h 1.87625"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3359"
+       d="M 275.37055,43.914373 378.03952,28.145467 393.45826,127.03004 269.22335,118.26387 Z"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="1.8290588"
+       cy="43.914375"
+       cx="275.37048"
+       id="circle3361"
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3363"
+       cx="377.77197"
+       cy="28.039366"
+       r="1.8290588" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3365"
+       cx="268.76868"
+       cy="118.03957"
+       r="1.8290588" />
+    <circle
+       r="1.8290588"
+       cy="127.03002"
+       cx="393.64694"
+       id="circle3367"
+       style="opacity:1;vector-effect:none;fill:#fb2100;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="1.8290588"
+       cy="96.080482"
+       cx="333.10062"
+       id="circle3369"
+       style="opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 333.11234,96.083445 60.34592,30.946595"
+       id="path3371"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3373"
+       d="M 333.11234,96.083445 378.03952,28.145467"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 333.11234,96.083445 275.37055,43.914373"
+       id="path3375"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3377"
+       d="M 333.11234,96.083445 269.22335,118.26387"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3383"
+       y="80.855736"
+       x="294.24075"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="80.855736"
+         x="294.24075"
+         id="tspan3381"
+         sodipodi:role="line">c<tspan
+   id="tspan3379"
+   style="font-size:64.99999762%;baseline-shift:sub">30</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="261.96445"
+       y="124.18604"
+       id="text3389"><tspan
+         sodipodi:role="line"
+         id="tspan3387"
+         x="261.96445"
+         y="124.18604"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">p<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3385">0</tspan></tspan></text>
+    <text
+       id="text3395"
+       y="133.17651"
+       x="390.80353"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="133.17651"
+         x="390.80353"
+         id="tspan3393"
+         sodipodi:role="line">p<tspan
+   id="tspan3391"
+   style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="266.26062"
+       y="42.084248"
+       id="text3401"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         x="266.26062"
+         y="42.084248"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">p<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3397">3</tspan></tspan></text>
+    <text
+       id="text3407"
+       y="26.209242"
+       x="381.08957"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="26.209242"
+         x="381.08957"
+         id="tspan3405"
+         sodipodi:role="line">p<tspan
+   id="tspan3403"
+   style="font-size:64.99999762%;baseline-shift:sub">2</tspan></tspan></text>
+    <path
+       sodipodi:open="true"
+       d="m 345.84922,77.600334 a 22.450895,22.450895 0 0 1 6.92527,29.295946"
+       sodipodi:end="0.50265482"
+       sodipodi:start="5.3162729"
+       sodipodi:ry="22.450895"
+       sodipodi:rx="22.450895"
+       sodipodi:cy="96.080482"
+       sodipodi:cx="333.10062"
+       sodipodi:type="arc"
+       id="path3409"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Lstart)" />
+    <path
+       sodipodi:open="true"
+       d="m 353.03287,106.41238 a 22.450895,22.450895 0 0 1 -21.8109,12.04026 22.450895,22.450895 0 0 1 -19.49751,-15.50902"
+       sodipodi:end="2.830924"
+       sodipodi:start="0.47822022"
+       sodipodi:ry="22.450895"
+       sodipodi:rx="22.450895"
+       sodipodi:cy="96.080482"
+       sodipodi:cx="333.10062"
+       sodipodi:type="arc"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7240)"
+       id="path3413" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker3232)"
+       id="path3415"
+       sodipodi:type="arc"
+       sodipodi:cx="333.10062"
+       sodipodi:cy="96.080482"
+       sodipodi:rx="22.450895"
+       sodipodi:ry="22.450895"
+       sodipodi:start="3.8885936"
+       sodipodi:end="5.3058009"
+       d="M 316.62772,80.826416 A 22.450895,22.450895 0 0 1 345.655,77.467846"
+       sodipodi:open="true" />
+    <path
+       id="path3417"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker6342)"
+       sodipodi:type="arc"
+       sodipodi:cx="333.10062"
+       sodipodi:cy="96.080482"
+       sodipodi:rx="22.450895"
+       sodipodi:ry="22.450895"
+       sodipodi:start="2.8169614"
+       sodipodi:end="3.8606683"
+       d="m 311.82237,103.2414 a 22.450895,22.450895 0 0 1 4.38586,-21.949086"
+       sodipodi:open="true" />
+    <text
+       id="text3429"
+       y="95.079391"
+       x="312.56116"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="95.079391"
+         x="312.56116"
+         id="tspan3427"
+         sodipodi:role="line">θ<tspan
+   id="tspan3425"
+   style="font-size:64.99999762%;baseline-shift:sub">30</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="345.56894"
+       y="95.881195"
+       id="text3435"><tspan
+         sodipodi:role="line"
+         id="tspan3433"
+         x="345.56894"
+         y="95.881195"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">θ<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3431">12</tspan></tspan></text>
+    <text
+       id="text3441"
+       y="81.181374"
+       x="329.53278"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="81.181374"
+         x="329.53278"
+         id="tspan3439"
+         sodipodi:role="line">θ<tspan
+   id="tspan3437"
+   style="font-size:64.99999762%;baseline-shift:sub">23</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="328.89539"
+       y="44.076763"
+       id="text3447"><tspan
+         sodipodi:role="line"
+         id="tspan3445"
+         x="328.89539"
+         y="44.076763"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">c<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3443">23</tspan></tspan></text>
+    <text
+       id="text3453"
+       y="75.691223"
+       x="375.90164"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="75.691223"
+         x="375.90164"
+         id="tspan3451"
+         sodipodi:role="line">c<tspan
+   id="tspan3449"
+   style="font-size:64.99999762%;baseline-shift:sub">12</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="323.06454"
+       y="186.42749"
+       id="text3459"><tspan
+         sodipodi:role="line"
+         id="tspan3457"
+         x="323.06454"
+         y="186.42749"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">c<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3455">01</tspan></tspan></text>
+    <text
+       id="text3465"
+       y="91.727112"
+       x="330.7695"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="91.727112"
+         x="330.7695"
+         id="tspan3463"
+         sodipodi:role="line">r<tspan
+   id="tspan3461"
+   style="font-size:64.99999762%;baseline-shift:sub" /></tspan></text>
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000dd;stroke-width:0.085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3491"
+       cx="292.9274"
+       cy="82.917114"
+       r="42.657433" />
+    <circle
+       r="52.403023"
+       cy="43.679634"
+       cx="327.67828"
+       id="circle3493"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000dd;stroke-width:0.085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000dd;stroke-width:0.085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3495"
+       cx="380.43555"
+       cy="78.17083"
+       r="50.326229" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000dd;stroke-width:0.085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3497"
+       cx="326.92233"
+       cy="180.88499"
+       r="85.254105" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.34188244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3411"
+       cx="333.10062"
+       cy="96.080482"
+       r="1.8290588" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="239.59712"
+       y="88.935738"
+       id="text3501"><tspan
+         sodipodi:role="line"
+         id="tspan3499"
+         x="239.59712"
+         y="88.935738"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">C<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3503">30</tspan></tspan></text>
+    <text
+       id="text3509"
+       y="141.32057"
+       x="240.13167"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="141.32057"
+         x="240.13167"
+         id="tspan3507"
+         sodipodi:role="line">C<tspan
+   id="tspan3505"
+   style="font-size:64.99999762%;baseline-shift:sub">01</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="270.05511"
+       y="18.376583"
+       id="text3515"><tspan
+         sodipodi:role="line"
+         id="tspan3513"
+         x="270.05511"
+         y="18.376583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">C<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3511">13</tspan></tspan></text>
+    <text
+       id="text3521"
+       y="127.68982"
+       x="403.95715"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="127.68982"
+         x="403.95715"
+         id="tspan3519"
+         sodipodi:role="line">C<tspan
+   id="tspan3517"
+   style="font-size:64.99999762%;baseline-shift:sub">13</tspan></tspan></text>
+    <text
+       id="text3527"
+       y="115.98954"
+       x="330.22287"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="115.98954"
+         x="330.22287"
+         id="tspan3525"
+         sodipodi:role="line">θ<tspan
+   id="tspan3523"
+   style="font-size:64.99999762%;baseline-shift:sub">01</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#0000e8;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 327.67828,43.679633 307.72541,-4.7761165"
+       id="path3529"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000e8;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3563)"
+       d="M 380.43553,78.17083 428.47468,93.1698"
+       id="path3531"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000e8;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3699)"
+       d="m 326.92234,180.88499 84.719,-9.53697"
+       id="path3533"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000e8;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3841)"
+       d="M 292.9274,82.917114 252.01169,70.85222"
+       id="path3535"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3541"
+       y="15.350573"
+       x="317.3671"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="15.350573"
+         x="317.3671"
+         id="tspan3539"
+         sodipodi:role="line">R<tspan
+   id="tspan3537"
+   style="font-size:64.99999762%;baseline-shift:sub">23</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="406.85513"
+       y="83.575676"
+       id="text4051"><tspan
+         sodipodi:role="line"
+         id="tspan4049"
+         x="406.85513"
+         y="83.575676"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">R<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4047">12</tspan></tspan></text>
+    <text
+       id="text4057"
+       y="174.78583"
+       x="350.052"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="174.78583"
+         x="350.052"
+         id="tspan4055"
+         sodipodi:role="line">R<tspan
+   id="tspan4053"
+   style="font-size:64.99999762%;baseline-shift:sub">01</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="257.19916"
+       y="70.801559"
+       id="text4063"><tspan
+         sodipodi:role="line"
+         id="tspan4061"
+         x="257.19916"
+         y="70.801559"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">R<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4059">30</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="100.68704"
+       y="213.13847"
+       id="text4071"><tspan
+         sodipodi:role="line"
+         id="tspan4069"
+         x="100.68704"
+         y="213.13847"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">C: (x-x<tspan
+   id="tspan4065"
+   style="font-size:64.99999762%;baseline-shift:sub">c</tspan>)²+(y-y<tspan
+   id="tspan4067"
+   style="font-size:64.99999762%;baseline-shift:sub">c</tspan>)²=R²</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.06074,155.42864 h 1.87625"
+       id="path4073"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4091"
+       y="192.50591"
+       x="101.61382"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="192.50591"
+         x="101.61382"
+         id="tspan4089"
+         sodipodi:role="line">k = |ab| cosθ/2 sinθ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="101.61382"
+       y="200.97264"
+       id="text4113"><tspan
+         sodipodi:role="line"
+         id="tspan4111"
+         x="101.61382"
+         y="200.97264"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">e<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4115">ab</tspan><tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4117">⟂</tspan> = ab<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4119">⟂</tspan>/|ab|</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.18158,197.23286 h 4.52209"
+       id="path4121"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4123"
+       d="m 122.76076,195.64535 h 4.52209"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.39411,165.48272 h 4.52209"
+       id="path4125"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.92743,167.07026 h 1.87625"
+       id="path4127"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4129"
+       d="m 146.04394,154.89932 h 4.52209"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4131"
+       d="m 133.87309,156.48686 h 1.87625"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 167.73977,154.89932 h 4.5221"
+       id="path4133"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       r="42.657433"
+       cy="71.726311"
+       cx="500.05835"
+       id="circle4137"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000dd;stroke-width:0.085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000dd;stroke-width:0.085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4139"
+       cx="561.26752"
+       cy="71.726311"
+       r="52.403023" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5196)"
+       d="M 500.05835,21.833283 V 119.35113"
+       id="path4866"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5024)"
+       d="m 500.05835,71.726143 99.78985,-10e-6"
+       id="path4145"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 561.26751,71.726133 v 1.13395"
+       id="path4147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4153"
+       y="24.653805"
+       x="493.90979"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="24.653805"
+         x="493.90979"
+         id="tspan4151"
+         sodipodi:role="line">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="596.90833"
+       y="78.326408"
+       id="text4159"><tspan
+         sodipodi:role="line"
+         id="tspan4157"
+         x="596.90833"
+         y="78.326408"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">x</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 561.26751,71.726133 39.08467,-34.90653"
+       id="path4161"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 500.05835,71.726133 468.59142,100.52698"
+       id="path4163"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="586.51398"
+       y="55.269863"
+       id="text4169"><tspan
+         sodipodi:role="line"
+         id="tspan4167"
+         x="586.51398"
+         y="55.269863"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">R<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4177">2</tspan></tspan></text>
+    <text
+       id="text4173"
+       y="95.146355"
+       x="480.30264"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="95.146355"
+         x="480.30264"
+         id="tspan4171"
+         sodipodi:role="line">R<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4175">1</tspan></tspan></text>
+    <text
+       id="text4181"
+       y="78.326408"
+       x="559.33752"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="78.326408"
+         x="559.33752"
+         id="tspan4179"
+         sodipodi:role="line">d</tspan></text>
+    <path
+       style="fill:none;stroke:#c60000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 523.09575,35.824393 V 107.62786"
+       id="path4183"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="498.48352"
+       y="78.326408"
+       id="text4187"><tspan
+         sodipodi:role="line"
+         id="tspan4185"
+         x="498.48352"
+         y="78.326408"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">o</tspan></text>
+    <text
+       id="text5986"
+       y="78.326408"
+       x="596.90833"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="78.326408"
+         x="596.90833"
+         id="tspan5984"
+         sodipodi:role="line">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="523.88348"
+       y="78.326408"
+       id="text5990"><tspan
+         sodipodi:role="line"
+         id="tspan5988"
+         x="523.88348"
+         y="78.326408"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">x</tspan></text>
+    <text
+       id="text5994"
+       y="38.109859"
+       x="493.19131"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1"
+         y="38.109859"
+         x="493.19131"
+         id="tspan5992"
+         sodipodi:role="line">y<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan5996">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="493.19131"
+       y="107.95974"
+       id="text6002"><tspan
+         sodipodi:role="line"
+         id="tspan6000"
+         x="493.19131"
+         y="107.95974"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">y<tspan
+   id="tspan5998"
+   style="font-size:64.99999762%;baseline-shift:sub">2</tspan></tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,440.55798,7.5741131)"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:43px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37039369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot6124"
+       xml:space="preserve"><flowRegion
+         style="line-height:43px"
+         id="flowRegion6006"><rect
+           style="line-height:43px"
+           y="451.09113"
+           x="88.571426"
+           height="407.14282"
+           width="520"
+           id="rect6004" /></flowRegion><flowPara
+         id="flowPara6122"
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none">C1: x²+y²=R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6300">1</flowSpan>²  ⇒   y²=R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6312">1</flowSpan>²-x²</flowPara><flowPara
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none"
+         id="flowPara6302">C2: (x-d)²+y²=R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6304">2</flowSpan>²  ⇒   (x-d)²+R1²-x²=R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6316">2</flowSpan>²</flowPara><flowPara
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none"
+         id="flowPara6318">x=(d²+R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6320">1</flowSpan>²-R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6322">2</flowSpan>²)/2d</flowPara><flowPara
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none"
+         id="flowPara6326">y²=R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6334">1</flowSpan>²-x²=R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6336">1</flowSpan>²-(d²+R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6338">1</flowSpan>²-R<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="flowSpan6340">2</flowSpan>²)²/4d²</flowPara><flowPara
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none"
+         id="flowPara6346" /><flowPara
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none"
+         id="flowPara6330" /><flowPara
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none"
+         id="flowPara6314" /><flowPara
+         style="line-height:43px;fill:#060500;fill-opacity:1;stroke:none"
+         id="flowPara6308" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path6348"
+       d="M 523.09575,35.824403 H 499.97561"
+       style="fill:none;stroke:#c60000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#c60000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 523.09358,107.62638 H 499.97344"
+       id="path6350"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000fe;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5362)"
+       d="m 121.53402,99.913384 -5e-5,-38.402314"
+       id="path6684"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6734"
+       d="m 121.534,61.075394 16.79507,-5e-5"
+       style="fill:none;stroke:#0000fe;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6738)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#0605f9;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="128.17448"
+       y="67.074173"
+       id="text7804"><tspan
+         sodipodi:role="line"
+         id="tspan7802"
+         x="128.17448"
+         y="67.074173"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';fill:#0605f9;fill-opacity:1;stroke-width:0.1">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.8777771px;line-height:5.0270834px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#060500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="101.61382"
+       y="182.98096"
+       id="text7808"><tspan
+         sodipodi:role="line"
+         id="tspan7806"
+         x="101.61382"
+         y="182.98096"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'TeX Gyre Schola Math';-inkscape-font-specification:'TeX Gyre Schola Math Bold Italic';stroke-width:0.1">v = k e<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7810">ab</tspan><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan7812">⟂</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.70252,155.95781 h 1.87625"
+       id="path7814"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.05808,178.80631 h 4.52209"
+       id="path7816"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7818"
+       d="m 102.65252,178.712 h 1.87625"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
