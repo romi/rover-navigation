@@ -46,7 +46,7 @@ class Setup():
 
     TRACK_LINE = "line"
     TRACK_CURVE = "curve"
-    DEFAULT_SETUP = TRACK_LINE
+    TRACK_FULL = "full"
     
     DEFAULT_WIDTH = 1.4 # m
     DEFAULT_LENGTH = 1.4 # m
@@ -84,7 +84,8 @@ class Setup():
         parser.add_argument('--track',
                             type=str,
                             choices={self.TRACK_LINE,
-                                     self.TRACK_CURVE},
+                                     self.TRACK_CURVE,
+                                     self.TRACK_FULL},
                             default=self.TRACK_LINE, 
                             help=f'The track to follow. (Default: {self.TRACK_LINE})')
         parser.add_argument('--iterations',
@@ -220,6 +221,15 @@ class Setup():
         elif self.args.track == self.TRACK_CURVE:
             self._track = Waypoints([[5.0, 8.1875], [22.0, 8.1875],
                                      [28.0, 7.8125], [45.0, 7.8125]])
+        elif self.args.track == self.TRACK_FULL:
+            self._track = Waypoints([[5.0, 2.0],  # start straight line
+                                     [45.0, 2.0],
+                                     [47.0, 2.0],   # start U-turn
+                                     [47.0, 7.8125],
+                                     [45.0, 7.8125], # start curved line
+                                     [28.0, 7.8125], # ... curve
+                                     [22.0, 8.1875],  
+                                     [5.0, 8.1875]]) 
         else: raise ValueError(f"Unknown track: {self.args.track}")
             
     @property

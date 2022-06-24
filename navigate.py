@@ -21,7 +21,7 @@ def reached_end_of_track(rover):
 
 def is_off_track(rover, setup):
     result = False
-    if setup.track.distance(rover.position) > 1.0:
+    if setup.track.distance_from_line(rover.position) > 1.0:
         print(f"Rover out of bounds ({rover.x:0.3f}, {rover.y:0.3f})")
         result = True
     return result

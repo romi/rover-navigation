@@ -86,7 +86,7 @@ class ITrack(ABC):
         pass
 
     @abstractmethod
-    def distance(self, p):
+    def distance_from_line(self, p):
         """The distance to the track in meter. Always a positive value."""
         pass
 
@@ -101,7 +101,7 @@ class ITrack(ABC):
         pass
 
     @abstractmethod
-    def point_at(self, p):
+    def closest_point(self, p):
         pass
     
     @abstractmethod
@@ -112,6 +112,13 @@ class ITrack(ABC):
     @abstractmethod
     def start_position(self):
         """The starting point and orientation of the track."""
+        pass
+
+    @abstractmethod
+    def points_at_distance(self, reference_point, distance):
+        """Find the points that are on the track and at a given distance from
+        the reference point.
+        """
         pass
     
 
